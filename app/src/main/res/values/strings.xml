@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TP3_P1</string>
+    <string name="switcher">Switch</string>
+    <string name="digital">Digital</string>
+    <string name="set">Set</string>
+    <string name="action_color">action_color</string>
+    <string name="action_refresh">action_refresh</string>
+</resources>
